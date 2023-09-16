@@ -1,2 +1,2 @@
 # litrature
-Author - Jayesh Singh
+Author - Jayesh Singh (JS)
